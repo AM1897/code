@@ -1,0 +1,47 @@
+body {
+    background-color: aquamarine;
+}
+
+h1, h2 {
+    font-family: 'Arial Black';
+}
+
+p,
+h2 {
+    font-family: Arial;
+}
+
+section {
+    border: 1px solid black;
+    margin-bottom: 1em;
+    padding: 1em;
+}
+
+section:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+article {
+    float: left;
+    width: 33%;
+}
+#red-text{
+    color: red;
+}
+#pink-text{
+    color: pink;
+}
+#yellow-text{
+    color: yellow;
+}
+#column1 {
+    background-color: bisque;
+}
+#column2 {
+    background-color: chocolate;
+}
+#column3 {
+    background-color: darkred;
+}
