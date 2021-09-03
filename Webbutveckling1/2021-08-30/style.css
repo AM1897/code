@@ -1,14 +1,16 @@
 body {
-    background-color: aquamarine;
+    background-color: silver;
 }
 
-h1, h2 {
-    font-family: 'Arial Black';
+h1
+
+h2 {
+    font-family: "Cambria Math";
 }
 
 p,
 h2 {
-    font-family: Arial;
+    font-family: Georgia;
 }
 
 section {
@@ -27,21 +29,21 @@ article {
     float: left;
     width: 33%;
 }
-#red-text{
+#nr1{
     color: red;
 }
-#pink-text{
-    color: pink;
+#nr2{
+    color: white;
 }
-#yellow-text{
-    color: yellow;
+#nr3{
+    color: darkblue;
 }
 #column1 {
-    background-color: bisque;
+    background-color: silver;
 }
 #column2 {
-    background-color: chocolate;
+    background-color: silver;
 }
 #column3 {
-    background-color: darkred;
+    background-color: silver;
 }
