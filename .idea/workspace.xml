@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8cf6144-acdf-4997-b185-26c7797ed924" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/programmering1/Lektioner/2021-10-12/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmering1/Lektioner/2021-10-12/js/guessingGame1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmering1/Lektioner/2021-10-12/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmering1/Lektioner/2021-10-12/prompt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/13e86a14f121ce38e464579a26cf7c11f33c385f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3bd79e8bef5edac3066299b3a47d4c22fce57c17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3fdf2db6a2a135207645923e9f16cfdedacfcb7a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c36ddf4bfb7f050ebb41a5d18e14a4438186836d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c55841da873ff4cf962d3358a20ad3c8d0f24e5e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d145e07c7cde54a8f5811fb29b20f47d5c96ed3d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb98028cdf7d36fecdcc370e485e056ff29cbb7b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fc9d1f57baf0a221470192422eb700fa605cbdb1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmering1/Lektioner/2021-10-11/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/programmering1/Lektioner/2021-10-11/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -36,8 +48,8 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.övning30.js">
-    <configuration name="övning26.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/programmering1/Lektioner/2021-10-08/övning26.js" working-dir="$PROJECT_DIR$/programmering1/Lektioner/2021-10-08">
+  <component name="RunManager" selected="JavaScript Debug.guessing-Game1.html">
+    <configuration name="guessing-Game1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/code/programmering1/Lektioner/2021-10-12/guessing-Game1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="övning27.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/programmering1/Lektioner/2021-10-08/övning27.js" working-dir="$PROJECT_DIR$/programmering1/Lektioner/2021-10-08">
@@ -54,11 +66,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.guessing-Game1.html" />
         <item itemvalue="Node.js.övning30.js" />
         <item itemvalue="Node.js.övning29.js" />
         <item itemvalue="Node.js.övning28.js" />
         <item itemvalue="Node.js.övning27.js" />
-        <item itemvalue="Node.js.övning26.js" />
       </list>
     </recent_temporary>
   </component>
@@ -75,6 +87,7 @@
       <workItem from="1633809296161" duration="14000" />
       <workItem from="1633901749577" duration="4296000" />
       <workItem from="1633937007267" duration="13400000" />
+      <workItem from="1634023264756" duration="20055000" />
     </task>
     <task id="LOCAL−00001" summary="commit">
       <created>1633985070775</created>
@@ -116,6 +129,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
