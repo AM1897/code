@@ -2,8 +2,8 @@ const maxNum = 10           //Detta visa att spelets max nummer är 10
 
 function generateRandomNumber(maxNumber) {
     let correctNumber = Math.floor(Math.random() * maxNumber + 1)  //här väljer den ett spontant nr
-        console.log('correctNumber:', correctNumber)            //Detta visar numret som är vi ska gissa.
-        return correctNumber
+    console.log('correctNumber:', correctNumber)            //Detta visar numret som är vi ska gissa.
+    return correctNumber
 }
 
 let random = generateRandomNumber(maxNum)

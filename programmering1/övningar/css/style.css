@@ -1,0 +1,26 @@
+body {
+    background-color: brown;
+}
+
+#container {
+    background-color: chocolate;
+    border: 5px salmon;
+    height: 275px;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+}
+
+p {
+    color: #323330;
+    font-size: 24px;
+}
+
+#Input {
+    width: 100px;
+    margin: 25px auto;
+}
+
+#btn {
+    margin: 25px auto auto 5px;
+}

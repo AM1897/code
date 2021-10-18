@@ -2,7 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8cf6144-acdf-4997-b185-26c7797ed924" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/blogg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/courses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/css/blogg.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/css/courses.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/css/navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/css/other.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/css/products.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/img/419203.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/img/Chiesa-celebrates-win-Juventus-Spezia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/img/IMG_0006.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/img/IMG_0200.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/img/IMG_0203.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/img/IMG_20200917_071744.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/img/IMG_2023.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/img/IMG_2446.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/img/IMG_3698.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/img/IMG_4573.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/img/Marchisio-Juventus.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/img/hi-res-81eb9a67f977880a60a1581b650245ef_crop_north.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/img/medium_df53fed9299f1eea6935bc47067438f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/other.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inlämning/webbutveckling-1/products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmering1/Lektioner/2021-10-18/centrera_sida/componenter/componenter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmering1/Lektioner/2021-10-18/centrera_sida/componenter/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmering1/Lektioner/2021-10-18/centrera_sida/componenter/img/qwu5umo0pd4bhd012lzl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmering1/Lektioner/2021-10-18/centrera_sida/componenter/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmering1/Lektioner/2021-10-18/centrera_sida/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmering1/Lektioner/2021-10-18/centrera_sida/grid/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmering1/Lektioner/2021-10-18/centrera_sida/grid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmering1/Lektioner/2021-10-18/centrera_sida/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmering1/Lektioner/2021-10-18/dropdown_menu/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmering1/Lektioner/2021-10-18/dropdown_menu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmering1/Lektioner/2021-10-18/dropdown_menu/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmering1/övningar/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmering1/övningar/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmering1/övningar/guessGame1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmering1/övningar/guessGame1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmering1/övningar/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/587440f9d29d31bbcee4a1ccef4125dcf3d9bc79" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f7bd51a7cfaa84acc3a81f28f55752bb7264305" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b773b2355b73a7a93705a092f1e850df5666299" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/7005064a342c4fac10ecb5ebcdd2a5c781bb70aa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a158aa1a05689a1f9e7f4d5d56438a5d171b2241" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4545bf7d1955b7235a6c8cfc7bc8dad0d65e895" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmering1/Lektioner/2021-10-12/js/guessingGame1.js" beforeDir="false" afterPath="$PROJECT_DIR$/programmering1/Lektioner/2021-10-12/js/guessingGame1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbut.1.hemmalektion/om-mig/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webbutveckling1/Övningar/om-mig/About.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbut.1.hemmalektion/om-mig/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webbutveckling1/Övningar/om-mig/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbut.1.hemmalektion/om-mig/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Webbutveckling1/Övningar/om-mig/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbut.1.hemmalektion/Övning/gridandflexbox/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Webbutveckling1/Övningar/gridandflexbox/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbut.1.hemmalektion/Övning/gridandflexbox/eget.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webbutveckling1/Övningar/gridandflexbox/eget.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbut.1.hemmalektion/Övning/nyhemsida/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Webbutveckling1/Övningar/nyhemsida/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbut.1.hemmalektion/Övning/nyhemsida/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webbutveckling1/Övningar/nyhemsida/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +71,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -36,7 +95,13 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\git\code\Inlämning" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\git\code\programmering1\Lektioner\2021-10-18\centrera_sida\componenter\img" />
+      <recent name="C:\git\code\Webbutveckling1\Övningar" />
+      <recent name="C:\git\code\Webbutveckling1" />
       <recent name="C:\git\code\programmering1\Lektioner\2021-10-12\css" />
     </key>
   </component>
@@ -81,7 +146,13 @@
       <workItem from="1633937007267" duration="13400000" />
       <workItem from="1634023264756" duration="20055000" />
       <workItem from="1634115290131" duration="229000" />
-      <workItem from="1634115578515" duration="10229000" />
+      <workItem from="1634115578515" duration="11044000" />
+      <workItem from="1634154838878" duration="1382000" />
+      <workItem from="1634196414750" duration="3938000" />
+      <workItem from="1634202389251" duration="3761000" />
+      <workItem from="1634208372966" duration="3458000" />
+      <workItem from="1634238144054" duration="597000" />
+      <workItem from="1634284046555" duration="17778000" />
     </task>
     <task id="LOCAL−00001" summary="commit">
       <created>1633985070775</created>

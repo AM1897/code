@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: wheat;
+}
+
+main {
+    background-color: coral;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+}
