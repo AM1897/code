@@ -1,0 +1,8 @@
+button{
+    background-color: wheat;
+    border-radius: 10%;
+    padding: 1em;
+}
+button:hover{
+    background-color: burlywood;
+}

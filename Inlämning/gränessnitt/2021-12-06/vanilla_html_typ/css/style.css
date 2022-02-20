@@ -1,0 +1,47 @@
+:root {
+    --dark-primary-color:#F57C00;
+    --light-primary-color:#FFE0B2;
+    --accent-color:#FF5722;
+    --primary-color:#FF9800;
+    --background-color:#757575;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url("../fonts/Roboto/Roboto-Bold.ttf");
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url("../fonts/Roboto/Roboto-light.ttf");
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: var(--background-color);
+}
+
+h1{
+    font-family: Roboto-Bold, serif;
+    color: var(--dark-primary-color);
+}
+h1:hover {
+    font-family: Roboto-Light, serif;
+}
+
+h2 {
+    color: var(--light-primary-color);
+}
+
+h3 {
+    color: var(--accent-color);
+}
+
+h4 {
+    color: var(--primary-color);
+}

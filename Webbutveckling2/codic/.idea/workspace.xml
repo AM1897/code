@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b34f8035-27e0-487b-813c-3da5a1c7fd2f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Inlämning/gränessnitt/2021-12-06/vanilla_html_typ/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inlämning/gränessnitt/2021-12-06/vanilla_html_typ/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/main/Main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/main/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navbar/Navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navbar/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/global/fonts/AlegreyaSans-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/global/fonts/AlegreyaSans-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/global/fonts/AlegreyaSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/global/fonts/AlegreyaSans-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/global/fonts/AlegreyaSans-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/global/fonts/AlegreyaSans-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/global/fonts/AlegreyaSans-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/global/fonts/AlegreyaSans-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/global/fonts/AlegreyaSans-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/global/fonts/AlegreyaSans-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/global/fonts/AlegreyaSans-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/global/fonts/AlegreyaSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/global/fonts/AlegreyaSans-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/global/fonts/AlegreyaSans-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/global/fonts/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/global/fonts/OleoScript-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/global/fonts/OleoScript-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/images/laptop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-first-react/src/components/MyButton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-first-react/src/components/MyButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/2021-10-25/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/2021-10-25/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/2021-10-25/js/album.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/2021-10-25/js/cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/2021-10-25/js/navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/2021-10-25/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/2021-10-25/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/ursula/css/card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/ursula/css/cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/ursula/css/dropdown.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/ursula/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/ursula/css/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/ursula/css/navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/ursula/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/ursula/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/ursula/js/card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/ursula/js/dataProducts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/ursula/js/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/ursula/js/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/ursula/js/navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/ursula/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/f/f/ff9d3d1114a74340b07d2d55555b03caf28e9644" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programmering1/Lektioner/2021-10-18/centrera_sida/componenter/componenter.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/2021-10-18/centrera_sida/componenter/componenter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programmering1/Lektioner/2021-10-18/centrera_sida/componenter/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../programmering1/Lektioner/2021-10-18/centrera_sida/componenter/js/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="23q3ibOWIfgqCSXocdKqLf2DCVx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b34f8035-27e0-487b-813c-3da5a1c7fd2f" name="Changes" comment="" />
+      <created>1642447918195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642447918195</updated>
+      <workItem from="1642447919693" duration="456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

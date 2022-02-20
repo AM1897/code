@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MaxDan</title>
+    <link rel='stylesheet' href='style.css'>
+</head>
+<body>
+
+<header class="header">
+
+    <section>
+        <p>MaxDan</p>
+    </section>
+
+    <section>
+        <label id="search">Sök:<input type="text" value="sök"></label>
+        <button onclick="inputButton()">Ok</button>
+    </section>
+    <section>
+
+        <div class="dropdown">
+            <div onclick="openMenu()">
+                <img src="img/shoppingcart.JPG" alt="Kundkorg"
+                     class="img"></div>
+            <button class="dropdown-button" onclick="openMenu()">Varukorg
+            </button>
+            <div id="dropdown" class="dropdown-content">
+                <p>Dina produkter</p>
+                <section>
+
+                    <article id="allAddedAlbums"></article>
+                    <article id="totalSumOfAddedAlbums"></article>
+                    <article id="totalQuantityOfAddedAlbums"></article>
+                    <article id="totalShippingOfAddedAlbums"></article>
+                    <section>
+
+                        <button onclick="closeMenu()">
+                            Stäng
+                        </button>
+
+                        <button onclick="pay()">
+                            Betala
+                        </button>
+                    </section>
+                </section>
+            </div>
+        </div>
+    </section>
+
+</header>
+
+<nav id="nav">
+</nav>
+
+<main>
+
+    <section class="albums">
+
+        <section>
+            <article></article>
+        </section>
+        <section>
+            <article>
+                <h1>Våra Favoriter</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam aut delectus dolores
+                    error, hic id itaque minus nam nulla placeat</p>
+
+                <section id="allAlbums"></section>
+
+            </article>
+        </section>
+        <section>
+            <article></article>
+        </section>
+
+    </section>
+</main>
+
+
+<script src="js/album.js"></script>
+<script src="js/cart.js"></script>
+<script src="js/navbar.js"></script>
+</body>
+</html>
